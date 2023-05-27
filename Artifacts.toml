@@ -1,459 +1,459 @@
 [[ZITSOL_1]]
 arch = "aarch64"
-git-tree-sha1 = "202a2e5c7a2e2bf8dd09bd4f69de04dd6a13f1a8"
+git-tree-sha1 = "c8d5d217aac4a34209d3e76b1258849669cea16d"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[ZITSOL_1.download]]
-    sha256 = "e12cb32ceceba9d6f784a7376c59ef204fbe8d923c975af5505e75b342ab8c41"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "4204211ce21529c54c1357aa6286de66ecbc01c011044d34ffa4d607754ba907"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "aarch64"
-git-tree-sha1 = "c15517c8f91becdfdafbcce6ae2a240d2d7a53e4"
+git-tree-sha1 = "48d223bfd4fdba93a3f8508be5a6be5602a015f4"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "2cdea33f0e0a03659f4f2a0cd5ce687ed384207c2da73fec5da0a701ba281266"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "34afa8930d19f0f03dba6bffeae58680191e1904c8785ccd378b81cfa2fd6c12"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "aarch64"
-git-tree-sha1 = "c3858f0032c075838e5624b6c3ab95b973d79bf3"
+git-tree-sha1 = "02da24763da32b82b1bcf25496f59ce6126ae054"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "92855234ec6f3c6c8b1997c21e077ebcb72122342933752821c71279d336350d"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "fb6a464cab6f999ca7b9bbe7be8936e64f4e143e0dcf50565ac11e3d9052b53e"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "aarch64"
-git-tree-sha1 = "140dc96f581c32f642862ed67505f0dea0d4940a"
+git-tree-sha1 = "7f6cca1caf7566fe7f71424437c778895f4b9619"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "448987d259cd3dd9dcd16a4c10081fc734dbfa21c8ecdd4a02072a238593f403"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "2790d5f50ea7b753d2892def658d1ad237258c4bcf2599c5fbd363f3444c89b3"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "aarch64"
-git-tree-sha1 = "ad06f05d8244abea4f42a8d3b68cb7c7717ac1f1"
+git-tree-sha1 = "3ff6b81aa9b84010faeee4d47e2dad49080fc74e"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "b4807bba305a15b3ccf639fc70cd8e8e04d041e38c31a6b404ae6f96f79fdb8b"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "0f824ebc3d555302a646279af70fe44d8ca1e3de598d834d94ca62dfcaeae94c"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.aarch64-linux-musl-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "aarch64"
-git-tree-sha1 = "a327addc46dcf535b00f1d1883b52c727e098ee4"
+git-tree-sha1 = "c03f729a2370b68dd1480b81f22066b6b4cef8c9"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "7ec1b428b843791e0b3d2f5d78e569c82d473e16761b7661d3c200018e470f02"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "c9861dbb415c9ac2ec918a25158e6a0538507171ca04f785a0fb6ca7053ea71b"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.aarch64-linux-musl-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "aarch64"
-git-tree-sha1 = "3d37d09ae4191ac28cb954680d1758875ca57bac"
+git-tree-sha1 = "7e2e0e172c4c0eb9b409bcb41fd51da27ddfdbeb"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "6cf8dd25eca36c48f810523902041280a4e41454b089eb9037aa3a0c4516f625"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "4e3bd101b40249693588d38a4380abe89e9268e67b40f6024a41d6481d3b3f92"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.aarch64-linux-musl-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "b8077ef92565726c93f2f4394d6212fde992aeb4"
+git-tree-sha1 = "e1c3f656daf89f4b1c8d84fdf5012c1394ad1bd6"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "6cb20053a76c8df749314cc292925d02bef3490a203978bf1b1cf938cbff58aa"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "de47e2c0b0be11d27822066085912b0d2d7c98911dd3c6fbb34b8eb236e298cd"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "16b3ad688eee59b9c65b99c3fe14f85a74f2bc28"
+git-tree-sha1 = "5e5a147d3ef1446f7ed9bd6a068e772099aa065d"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "ed8470f0a1a73b642d1aea0d801f4f74770a1836f6ec406a6b8dee5106d8b72e"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "a1ed292b30841a7590627247206964e0f4b1ad5f0641dc6f20cc7339e8fea6b5"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7ae6011e9ab24fc7711ef276290f7ffe356cd914"
+git-tree-sha1 = "fdc3250485b4ad906199630920facf1edc5d0e8c"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "fcae1c6413f51b365382b7a6e7cda59c8b476d8b78f239b75744a51be7c4866e"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "1955aa4efc05ade77f5746f6f6683aea6604f97787b6596155aa06b8f3c2a0e7"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ae1078f893982de1196414c252c1e4c02d0aa567"
+git-tree-sha1 = "21deaba4fc093cff6ca31fe6fbaed7f34cdf9fa7"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "82fda68a615663b17e816b5091df8d2895b69e8ff7a2c250fce086b636fe9112"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "b2219f0766016cd477e5f048e16c45c7215519de663fbd4b6bc5ae656a0070e1"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "78277bf5d7210d13fc64d161e7bb6e11d67d8176"
+git-tree-sha1 = "b5b79aefacf07e456001387ce3ea0fe151b1aebb"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "a25d37b587645d6322b1edae955e689fa0fc9c44ef2acb05d410e36f4d6bb39f"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "cdad0bef6d0ae3d9dbd3d7523177d26a756e85a0ca31a8e1b9db8db60db3a848"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "80a6cb25e8db72cb1d321761dbc6492d64655afa"
+git-tree-sha1 = "1b1b75898e3a06362f430acd1c8eea84e9bf7f00"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "b957406b0a6dd8970d8ad843713e0f50b89ec8d9fbe81e923428b7d1a2614947"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "bcdfddf912f8e83d213c02bcc6b6009f94c3ed28b4d3f8129a7d84e755b80da1"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "69e7babbbe63dbddc10010aa05419007f2402d77"
+git-tree-sha1 = "404d534698e68e406d5eb7dd57323e8d2342aee9"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "9d55f81015e56f33b5353d51d76712699b930b3cd009322c975c7aea7adfe320"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "3e333fbeffe879fc90e9e6248312a33c86cd8612a12a4c66cde97b354503ac8c"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4d09ef7c2fec07d0a57ca0207c999c9745d7084e"
+git-tree-sha1 = "f16b121313f0434217528f2ffb0c787ec04271ff"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "324c54fceb7182475249390303243cc19c166da6baa4fc04834c0cb2c1fd2c80"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "356a703dfd30c17c28b11d7bd861592a02690b5db9fca457e2568f9090e8eea9"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "bc8686f7908eaad1147e7b59edda96c40f43a35d"
+git-tree-sha1 = "9f2b17babb85ce87f4aa541fa80f3a6ca19c1251"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "efa9b3f2f4ae18c258aae47aa0efd9143f8a7404c45c706c17ad154c62cc2c8c"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "91b9101a3b9ec62fe336b588881a34296e1d9094e527822dd0ca18648c3c3ca0"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7222d206fd80c968ca5628e70bb3c38a71ea46a9"
+git-tree-sha1 = "7861b6de693c7832bf8aef42bb2d387bfee77626"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "0494d789e74eae1e013ecc2e2fd5f1b411c4627881e6e4af8f0c918d652b5a05"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "cf27548f9899a495038fd96535a003f5c525642f2aaf7d44f52894998e80ab10"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "13462f9137b0337d9e8029884c7df1eb36be130c"
+git-tree-sha1 = "dd8099de667eee9673f5191507dfb6675a1150bf"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "e615387474264ba1a1d735aa027763830900435fbdbc73f2da0b7ed438be2b12"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "d0bbbe3bec259db0424a36936e0885a4387940f5a2b859004e7b8eab715260de"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4bdd80c369a055948e93dba514818368d2c08a01"
+git-tree-sha1 = "3a8324be5e737fd603856bed956b7eaceeb54002"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "844e78d7a44bb7c6b3354e6cf892387a845d5c2762ba6a3389c348632bf667f9"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "8b47c230eb9ac1d30d239a2e2371e625678bd8bd4a251b3d7841455cb420872e"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "i686"
-git-tree-sha1 = "e3756adb61dc5901b7c3ef2afff92620b0648008"
+git-tree-sha1 = "f369fe0d47c0c2e48a12c57881812b2db03f8a5b"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "5f2f1cea6125fd19d32fb66d8a59f5127962fa86b5b041475d2fe31bf9fed2a1"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "6e0e2c84675442d6b409040758c51c34f777b613d075c3789e578b186e338de3"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.i686-linux-gnu-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "i686"
-git-tree-sha1 = "44c46c62920fff4d8c9c542715c8def4dcdd8cc7"
+git-tree-sha1 = "9686728524256be9fe3893c98c0ad9319ebc61a8"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "d81ec6a8814be983b5a26e0d82a8152c0bc31963e23f35108d6d3f4d8f18ee12"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "f14dbb8597f86cdfeecf786c75df97ae51e3a4050d41bb2c7a7b5920b3fed71a"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.i686-linux-gnu-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "i686"
-git-tree-sha1 = "7be2ed6ecb8d115b5ff9385920ee804f9346b65b"
+git-tree-sha1 = "7e28dc53f9c7a7d38c74f2198be5af68d8186a6e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "cfc25c9ff00f5c998879fc9f52fb73c8c77539cda89f4a9f243d25b59bb7e6c4"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "cca6e34468fc13943ac37f4bf2e06ed046c8f3e980cb59adc3bd79ec1c1c8caa"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.i686-linux-gnu-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "i686"
-git-tree-sha1 = "54352b1f267cd1c5ee43db21668f3c32ccb9bbda"
+git-tree-sha1 = "f09dea81a607bc52477724bc546100c45706fa52"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "9eda96feb605e91f2dd15b301ccaee9e1b0fd76b86a43ca0c5f7d160f7e0b777"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "66aa386f08f7197a2674365abe3467d37ec68a97ebddcb6cc925fa5540697d48"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.i686-linux-musl-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "i686"
-git-tree-sha1 = "ce82913c164ce6c383a43666524839f9f0e84012"
+git-tree-sha1 = "b916fcb548a9ec396f35c6ed5898a8172f967f23"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "b6e18ed823d76f8bcfa9cf580fa3f9e5a76b0ece62d5a4595a638de46e179701"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "bfde90b02a60c766f50119d5e24a9af39c06d6224346467209abca06459bc382"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.i686-linux-musl-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "i686"
-git-tree-sha1 = "59e65fd40e189184b31769e747ef20ad719046c1"
+git-tree-sha1 = "88fc31638981f36fac4a66ec4a3469639e3bf0c3"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "603dd07db6567e8e0e9ff7c3c094d7082515ed18473473cbc4f74ad01fd89494"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "05f7ec8c65dabf47b146fe742235152b703cf2be02012f9c40f1c6084b59f4ac"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.i686-linux-musl-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "i686"
-git-tree-sha1 = "067f389a685881a6568c468a3502d41b8bc05b84"
+git-tree-sha1 = "a983ad802db3783cd02e62f0e311afa3e6cd42a0"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[ZITSOL_1.download]]
-    sha256 = "ad2565d8f98b9989d97f73e2eb0d84eea7372f7862242c96f7b99f996c0119f6"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "27c23379da045fe61b25131456680a48f66d1f0c6e87c2ecc3a91e5f55b15da3"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.i686-w64-mingw32-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "i686"
-git-tree-sha1 = "7c9a87415f4f2462cb4918eb73191d9f79eed3dc"
+git-tree-sha1 = "e30e3c03421274e09f8709930b2a3cc63920b037"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[ZITSOL_1.download]]
-    sha256 = "86f4174911518a76816a4079d06dd666c6fb7ae4e65be7be753d6c1ad9de41be"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "4a2ec1f82f3bae3b27a277c8e97eb5c2c70d8a02c27c64ae8ca9823c7db5cc50"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.i686-w64-mingw32-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "i686"
-git-tree-sha1 = "91db31659b8086d9c38afea8ca6b77b494d8a2ed"
+git-tree-sha1 = "becd2abe7ba19ef5212f62aa44986974f7310473"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[ZITSOL_1.download]]
-    sha256 = "0b3e0cb03ade9b8acf73908fcffdecc76f5813c7be8d20f920a570bc8a44249a"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "45ea3f667fe236987b925f41885748674050996e17ca0045ce1f04a14c5936f3"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.i686-w64-mingw32-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "powerpc64le"
-git-tree-sha1 = "8acc4c796a30ea1c9bc807cb0008a4d21cfce163"
+git-tree-sha1 = "606a24fc5fb9792b85c799c0942fa362d53dced5"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "513c2c311468f0240f7b03045f0be84de7e9ac2e7f650b60a4857f030ff009e8"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "7df4ef34bdd6781847b87eef850060554c58cef3ad39c253f55a0d37e598551b"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "powerpc64le"
-git-tree-sha1 = "8f9a05d85bd8b451e1c52dba7a25045aee9eb9ff"
+git-tree-sha1 = "0fb08ddbce50509b9eea0c9b8bb717eb02408cc1"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "7cd62cec12cd0d50fd8553dd8a18ac9c9553b0fec72297a3a7839c95091b5a4a"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "1d45d5cd4e9dcbb052de4a2bd931080e9062ead560ac3b74fc0705a452d0da66"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "powerpc64le"
-git-tree-sha1 = "bbe651b8b315afe62b60cdc851c8cf9ee46fc669"
+git-tree-sha1 = "e806b3666ea736c50de6f8aea621f57f9f976afe"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "20a06b896ef7f4c60d061e4b692903c245a281a78aac9856790876a1210652f0"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "4459bb33dd1d7965ecd2a7797c5c0fb3ad29fbfa0dcc378ceaa73a69395a8490"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "ddf840f0273601f1a7d42e5a09710a93b8df6318"
+git-tree-sha1 = "2b915ca3abe8c4c3569f83d989d56896eabce2b8"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[ZITSOL_1.download]]
-    sha256 = "adf2b4876c743d3fe73108778ef04a0f22c3a59a0ac3f714b1a5c0cf22d49068"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "4536fc910a1d2a5a1e2265447533d610e98a1ca44f2e218f162d0b26240f2a8e"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "3e5e055cc0d863b5b170d796fbb442b7a837ae83"
+git-tree-sha1 = "a6aa39a28c5f817e747ed88b14886c2cf1e628e5"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[ZITSOL_1.download]]
-    sha256 = "143f35388f35f085f757f7ab42848b681e94d3b363c3c156a8ffd66f81153958"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "209fa72001d9bf8025dbe1f064d5755c40e8ca70d8eab9acb55fb216ad6d30cd"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "373d2d7eddb011334694645851c3dea56c040d2d"
+git-tree-sha1 = "a1ebdb98791c121298d80076869db34b4688fe39"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[ZITSOL_1.download]]
-    sha256 = "d23f356b6da0f50611b73cf3bfa9c5190a3aedc0920524351df208e1763b5545"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "3129d908f8a3eee437f6a0fba28b2889da4d14f189eb39a9d087139e51960698"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "8eed9cf634bd4aa386ebda3058b620515fef5593"
+git-tree-sha1 = "7630a2c04a4b0fb98d949b7c2559febefc6ea69e"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "e6c3baa6b096add8a09f951d1c6c16d4085de5da7bd01960797a40e8d20c1e6a"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "7134aa4fc3662a26fbdf7ed83d4c46ffd8d439603296b0c2e0c07b9ae98d7989"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "7cefe812e655b20e5c0cbe54ed89fb2af60c93d1"
+git-tree-sha1 = "489bc3d5e39576d31120567ef5c9c2ec26142b8e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "70785a713ca2cba73b8a0936989aed1f77076724d5278ac51e61c7a6c426aa8f"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "ab1dd2761fb8b7bcbb811fbf6419d44c10e57b3d90d79323fc92c8074b43a046"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "68c8dab5420d1244d433629e4c17b51f48a1c70d"
+git-tree-sha1 = "5ccc457581ccc49d8a855099308afbde905dd9b8"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "cbce75691fa5d173a21aee21fb14348e520f0b752b0176ebfe2a742e27a05886"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "5c28e3b4e088f526cbc0ee41b80af1383074e2a625c1844f1b77bdfc1a70a0a8"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "614873003520caa5b381bc0de46d57cb65797b76"
+git-tree-sha1 = "239f4b3c227384288527d39d231d3e7416232cba"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "419c423263236fbe89adf6c7e1e9a9cd3f2c7417c4995d5b3ed5d4d69f657baf"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "bbc8dd600fef293bdae8f007bcb72502c711363cdd18abef8a6aca9b522d65d8"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-linux-musl-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "1689120c548eacae6a7cc470988e44d33367f8fc"
+git-tree-sha1 = "64b422cb4e33d42abf3b1bd93c17c7570fef6ce3"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "40ad732f83a95f1efb6ef27d929f6a06d5e305fa14d9d9dacc4f7335410885b8"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "70655c2b1864915686c4fe1abd1f7b379d92cbb7bd203014cc8010637a2ce03f"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-linux-musl-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "63f33cedfe1a74530cb9bbf629844d09bb752fab"
+git-tree-sha1 = "56befda9c7a33ab1dd1872bfb8d4fd4b680e278d"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ZITSOL_1.download]]
-    sha256 = "0c90a4825597ff564ff751bbe6f93785d21ca799884d78f2f0f61a07d19f2b43"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "cf278fed77c35c7ed2e2cf514b4ac821c40cf8b4e78795fa1441a755e82ed987"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-linux-musl-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "d883438df020a35c004bc64b5234291d0603a2ec"
+git-tree-sha1 = "73b89c49c26e04c121a2f2014009c72fbebd016d"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[ZITSOL_1.download]]
-    sha256 = "86addd291e7a640a70d04aa20497bf40e71718d80d51ac196862775ffeb65516"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "81618797ddbcb4ee82bf623b2ef5f33ba1ec69d59e9150449b4ee7f86dcf429e"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "3d76cac59d00dc2dc44a60ea8905087c79a467a3"
+git-tree-sha1 = "3c789f639d246935b62c1734e859339b6d05b33e"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[ZITSOL_1.download]]
-    sha256 = "9976bf19b3c15244a2a8b465776715158298fa05e58cac52343173adfffd828c"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "97ebae957eb758b15e8621982b6060ee0b629e256d467940fafb2a72f3acb88b"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "1251f1d9c6a77a182a9534b15dfccfbaff233dc0"
+git-tree-sha1 = "19b408abebf9681adb3ad6cfc034de3f27b7bd2f"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[ZITSOL_1.download]]
-    sha256 = "ae2f7fef1c4a5fdbcfba665dc02db336515314e5f8a333e93ac5e8d1594ea63f"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "fb52a331298fb5560c4b0b35897b06ba5ae80229de74df9f22a37d3970dc16de"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "d87f01348c9f62ee463168749741dfe6d1528285"
+git-tree-sha1 = "2ea25014cf36b5080932d3a55038e5fc805a3883"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[ZITSOL_1.download]]
-    sha256 = "bd41e27736cbf60ee44bb04767ef47dfb1eb0cabc8a574ac9f5092cc0338003e"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "b0ba44611f3a8b8bda43652a1f311cfc1139d7da3076f2579139fced3a06d467"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "ccd06a2647dfa725b05b9bfa35e26bd908827426"
+git-tree-sha1 = "3a9ca544d0893caa2dd25e347ed42e809e5e5407"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[ZITSOL_1.download]]
-    sha256 = "cd6f20ffc176e05e0518d5921c3af9d9581ea4ebee3f52995da0291c2b57b987"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "ad55a507c27bbef789dcb6ba13499a1edad3277d716f4b225eae858e264a0b6f"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[ZITSOL_1]]
 arch = "x86_64"
-git-tree-sha1 = "26c3afef706b4e812a32c809ed9d7d7a8c6e81f8"
+git-tree-sha1 = "21e3c8d63db90349c75b9cf4109614c08f726049"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[ZITSOL_1.download]]
-    sha256 = "45d0079251f9e02bc5d088a0bef0fc5c0e67877e5f4fef6ec283024ba907142c"
-    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.1+0/ZITSOL_1.v0.1.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "a68936de0f186012933605142be5b16cf489d9051b906a6143c91202cd7605ff"
+    url = "https://github.com/JuliaBinaryWrappers/ZITSOL_1_jll.jl/releases/download/ZITSOL_1-v0.1.2+0/ZITSOL_1.v0.1.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
